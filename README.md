@@ -1,7 +1,7 @@
 ### Hospital-Emergency-Room-Dashboard-PowerBI
 
-# This Hospital Emergency Room Dashboard provides an analytical view of emergency room operations, patient demographics, and healthcare efficiency metrics. 
-# The dashboard is designed to help hospitals optimize patient care, resource allocation, and operational performance.
+ This Hospital Emergency Room Dashboard provides an analytical view of emergency room operations, patient demographics, and healthcare efficiency metrics. 
+ The dashboard is designed to help hospitals optimize patient care, resource allocation, and operational performance.
 
 📊 Key Features:
  Patient Tracking: Unique identifiers ensure accurate case monitoring while maintaining privacy
